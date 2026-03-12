@@ -1,39 +1,94 @@
-# Conquista do Continente
+# ⚔️ Conquest of the Continent
 
-`Conquista do Continente` e uma aplicacao em Java, desenvolvida em consola, inspirada no universo de **The Witcher**. Neste RPG, o jogador escolhe um heroi entre Geralt, Yennefer, Ciri e Cahir, define a dificuldade, distribui atributos e parte para uma aventura marcada por combates por turnos, escolhas estrategicas, loja, inventario e elementos narrativos.
+![Java](https://img.shields.io/badge/Java-Programming-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![OOP](https://img.shields.io/badge/Paradigm-Object--Oriented-blue?style=for-the-badge)
+![Platform](https://img.shields.io/badge/Platform-Console-black?style=for-the-badge)
 
-Ao longo do jogo, o objetivo e enfrentar monstros, sobreviver aos desafios do continente e derrotar o Imperador Emhyr. Para enriquecer a experiencia, a aplicacao inclui tambem uma **Enciclopedia de Personagens** e um **Bestiario**, permitindo explorar o lore do jogo e conhecer melhor os inimigos encontrados durante a jornada.
+**Conquest of the Continent** is a **Java console RPG** inspired by the universe of **The Witcher**.
 
-## Funcionalidades
+In this adventure, the player chooses a hero — **Geralt, Yennefer, Ciri, or Cahir** — selects the game difficulty, distributes attribute points, and embarks on a journey across a dangerous continent filled with monsters and strategic battles.
 
-- Criacao de personagem com escolha de heroi, dificuldade e distribuicao de atributos
-- Sistema de combate por turnos com ataques normais, especiais e uso de consumiveis
-- Herois com habilidades proprias e estilos de jogo diferentes
-- Loja com armas e itens consumiveis
-- Inventario e gestao de recursos
-- Enciclopedia de personagens do universo The Witcher
-- Bestiario com informacao sobre monstros, fraquezas e nivel de dificuldade
+The game features **turn-based combat**, character progression, an **inventory and shop system**, and narrative elements.  
+The ultimate goal is to survive the challenges of the continent and defeat **Emperor Emhyr**.
 
-## Tecnologias
+To enrich the experience, the game also includes a **Character Encyclopedia** and a **Bestiary**, allowing players to explore the lore of the game world and learn more about the enemies they encounter.
 
-- Java
-- Programacao orientada a objetos
-- Execucao em consola
+---
 
-## Como executar
+# 🖼️ Game Preview
 
-Compilar o projeto:
+<p align="center">
+  <img src="screenshots/character_selection.png" width="220">
+  <img src="screenshots/combat.png" width="220">
+  <img src="screenshots/shop.png" width="220">
+  <img src="screenshots/bestiary.png" width="220">
+</p>
+
+---
+
+# ✨ Features
+
+- 🧙 Character creation with hero selection, difficulty level, and attribute distribution  
+- ⚔️ **Turn-based combat system** with normal attacks, special abilities, and consumables  
+- 🦸 Heroes with unique abilities and gameplay styles  
+- 🛒 Shop system with weapons and consumable items  
+- 🎒 Inventory and resource management  
+- 📚 **Character Encyclopedia** from The Witcher universe  
+- 🐉 **Bestiary** with information about monsters, weaknesses, and difficulty levels  
+
+---
+
+# 🛠 Technologies Used
+
+| Technology | Purpose |
+|------------|--------|
+| **Java** | Core programming language |
+| **Object-Oriented Programming** | Game architecture |
+| **Console Interface** | User interaction |
+
+Concepts used in the project include:
+
+- Classes and objects  
+- Inheritance  
+- Polymorphism  
+- Abstraction  
+- Encapsulation  
+
+---
+
+# 🚀 Running the Project
+
+### Compile the project
 
 ```bash
 javac -d out $(find src -name '*.java')
 ```
 
-Executar a aplicacao:
+### Run the application
 
 ```bash
 java -cp out Jogo.Menu
 ```
 
-## Objetivo do projeto
+---
 
-Este projeto foi desenvolvido no ambito da aprendizagem de **Programacao Orientada a Objetos**, com foco na organizacao de classes, heranca, polimorfismo, abstracao e encapsulamento, aplicados a uma experiencia interativa em consola.
+# 🎯 Project Goals
+
+This project was developed as part of learning **Object-Oriented Programming (OOP)**.
+
+The goal was to apply key OOP principles to create an **interactive console-based RPG**, focusing on:
+
+- structured class design  
+- modular game systems  
+- reusable code  
+- interactive gameplay logic  
+
+The project demonstrates how **OOP concepts can be used to build a small game engine and narrative experience in Java**.
+
+---
+
+# 👩‍💻 Author
+
+**Catarina Rato**
+
+Academic project developed to explore **Java programming and Object-Oriented Design**.
