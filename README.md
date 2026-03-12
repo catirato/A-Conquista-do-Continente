@@ -1,10 +1,10 @@
-# ⚔️ Conquest of the Continent
+# ⚔️ Conquista do Continente
 
 ![Java](https://img.shields.io/badge/Java-Programming-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![OOP](https://img.shields.io/badge/Paradigm-Object--Oriented-blue?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Platform-Console-black?style=for-the-badge)
 
-**Conquest of the Continent** is a **Java console RPG** inspired by the universe of **The Witcher**.
+**Conquista do Continente** is a **Java console RPG** inspired by the universe of **The Witcher**.
 
 In this adventure, the player chooses a hero — **Geralt, Yennefer, Ciri, or Cahir** — selects the game difficulty, distributes attribute points, and embarks on a journey across a dangerous continent filled with monsters and strategic battles.
 
@@ -18,8 +18,10 @@ To enrich the experience, the game also includes a **Character Encyclopedia** an
 # 🖼️ Game Preview
 
 <p align="center">
+  <img src="screenshots/homepage.png" width="220">
+</p>
+<p align="center">
   <img src="screenshots/character_selection.png" width="220">
-  <img src="screenshots/combat.png" width="220">
   <img src="screenshots/shop.png" width="220">
   <img src="screenshots/bestiary.png" width="220">
 </p>
